@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="On-boarding SSR">4623c5aa47912110c43303abd36d4390</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-03 15:29:11</sys_created_on>
+        <sys_id>04fd01a647d12110c43303abd36d4341</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Catalog.On-boarding SSR</sys_name>
+        <sys_package display_value="Qgate" source="x_986614_qgate">b6f0fef32f0121108d417f572799b691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Qgate">b6f0fef32f0121108d417f572799b691</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_04fd01a647d12110c43303abd36d4341</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-03 15:36:42</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Qgate">b6f0fef32f0121108d417f572799b691</application>
+        <file_path/>
+        <instance_id>6259ff7fdb8c53845904f897bf9619c3</instance_id>
+        <instance_name>dev49783</instance_name>
+        <name>sc_cat_item_catalog_04fd01a647d12110c43303abd36d4341</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="On-boarding SSR">4623c5aa47912110c43303abd36d4390</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-03 15:29:11</sys_created_on><sys_id>04fd01a647d12110c43303abd36d4341</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Service Catalog.On-boarding SSR</sys_name><sys_package display_value="Qgate" source="x_986614_qgate">b6f0fef32f0121108d417f572799b691</sys_package><sys_policy/><sys_scope display_value="Qgate">b6f0fef32f0121108d417f572799b691</sys_scope><sys_update_name>sc_cat_item_catalog_04fd01a647d12110c43303abd36d4341</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-03-03 15:36:42</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1480877365</payload_hash>
+        <record_name>Service Catalog.On-boarding SSR</record_name>
+        <reverted_from/>
+        <source>55011d6a47d12110c43303abd36d43f1</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-03 15:42:39</sys_created_on>
+        <sys_id>15011d6a47d12110c43303abd36d43f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>186a823bc360000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-03 15:42:39</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>19011d6aa1d121105a90328f5dfa10f6</update_guid>
+        <update_guid_history>19011d6aa1d121105a90328f5dfa10f6:-1480877365,1aaf812a60d121100ee9575851bfa8e7:1042431807</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.On-boarding SSR">d5011d6a47d12110c43303abd36d43fa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-03-03 15:42:39</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0b1b83af26e9445b87b520a90ddcec49</sys_id>
+        <sys_metadata>04fd01a647d12110c43303abd36d4341</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.On-boarding SSR</sys_name>
+        <sys_package display_value="Qgate" source="x_986614_qgate">b6f0fef32f0121108d417f572799b691</sys_package>
+        <sys_parent display_value="On-boarding SSR">4623c5aa47912110c43303abd36d4390</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Qgate">b6f0fef32f0121108d417f572799b691</sys_scope>
+        <sys_scope_delete display_value="">1d4448067d5f475a8da9933921c5e7a4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_04fd01a647d12110c43303abd36d4341</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_04fd01a647d12110c43303abd36d4341">15011d6a47d12110c43303abd36d43f7</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-03-03 15:42:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

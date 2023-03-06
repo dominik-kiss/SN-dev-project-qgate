@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Ongoing on-boardings">fa5272b72f0121108d417f572799b699</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Ongoing on-boardings</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_986614_qgate_ongoing_on_boardings</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_986614_qgate.ongoing_on_boardings_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 09:44:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fa52b2b72f0121108d417f572799b6f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ongoing on-boardings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Qgate" source="x_986614_qgate">b6f0fef32f0121108d417f572799b691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Qgate">b6f0fef32f0121108d417f572799b691</sys_scope>
+        <sys_update_name>sys_app_module_fa52b2b72f0121108d417f572799b6f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 09:44:38</sys_updated_on>
+        <timeline_page/>
+        <title>Ongoing on-boardings</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Qgate">b6f0fef32f0121108d417f572799b691</application>
+        <file_path/>
+        <instance_id>6259ff7fdb8c53845904f897bf9619c3</instance_id>
+        <instance_name>dev49783</instance_name>
+        <name>sys_app_module_fa52b2b72f0121108d417f572799b6f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Ongoing on-boardings">fa5272b72f0121108d417f572799b699</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Ongoing on-boardings</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_986614_qgate_ongoing_on_boardings</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_986614_qgate.ongoing_on_boardings_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-23 09:44:38</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fa52b2b72f0121108d417f572799b6f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ongoing on-boardings</sys_name><sys_overrides/><sys_package display_value="Qgate" source="x_986614_qgate">b6f0fef32f0121108d417f572799b691</sys_package><sys_policy/><sys_scope display_value="Qgate">b6f0fef32f0121108d417f572799b691</sys_scope><sys_update_name>sys_app_module_fa52b2b72f0121108d417f572799b6f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-23 09:44:38</sys_updated_on><timeline_page/><title>Ongoing on-boardings</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-273992999</payload_hash>
+        <record_name>Ongoing on-boardings</record_name>
+        <reverted_from/>
+        <source>76f0fef32f0121108d417f572799b693</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 09:44:38</sys_created_on>
+        <sys_id>be52b2b72f0121108d417f572799b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1867da914d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 09:44:38</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f252b2b7c6012110a4cca59c1f84eafa</update_guid>
+        <update_guid_history>f252b2b7c6012110a4cca59c1f84eafa:-273992999</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Ongoing on-boardings">fa41eb7247512110c43303abd36d43e0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-04 20:51:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>be7c7c14f9de4b66b1b97b5431e3e884</sys_id>
+        <sys_metadata>fa52b2b72f0121108d417f572799b6f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ongoing on-boardings</sys_name>
+        <sys_package display_value="Qgate" source="x_986614_qgate">b6f0fef32f0121108d417f572799b691</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Qgate">b6f0fef32f0121108d417f572799b691</sys_scope>
+        <sys_scope_delete display_value="">1d4448067d5f475a8da9933921c5e7a4</sys_scope_delete>
+        <sys_update_name>sys_app_module_fa52b2b72f0121108d417f572799b6f8</sys_update_name>
+        <sys_update_version display_value="sys_app_module_fa52b2b72f0121108d417f572799b6f8">be52b2b72f0121108d417f572799b6fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-04 20:51:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

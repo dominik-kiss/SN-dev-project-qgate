@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Ongoing on-boardings</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_986614_qgate_ongoing_on_boardings</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">9d464cb521120110a866589604c20d55</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 09:44:38</sys_created_on>
+        <sys_id>138176772f0121108d417f572799b60f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ongoing on-boardings</sys_name>
+        <sys_package display_value="Qgate" source="x_986614_qgate">b6f0fef32f0121108d417f572799b691</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Qgate">b6f0fef32f0121108d417f572799b691</sys_scope>
+        <sys_update_name>sys_db_object_138176772f0121108d417f572799b60f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 09:44:38</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_986614_qgate.ongoing_on_boardings_user" name="x_986614_qgate.ongoing_on_boardings_user">6a5272b72f0121108d417f572799b690</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Qgate">b6f0fef32f0121108d417f572799b691</application>
+        <file_path/>
+        <instance_id>6259ff7fdb8c53845904f897bf9619c3</instance_id>
+        <instance_name>dev49783</instance_name>
+        <name>sys_db_object_138176772f0121108d417f572799b60f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Ongoing on-boardings</label><live_feed_enabled>false</live_feed_enabled><name>x_986614_qgate_ongoing_on_boardings</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">9d464cb521120110a866589604c20d55</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-23 09:44:38</sys_created_on><sys_id>138176772f0121108d417f572799b60f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ongoing on-boardings</sys_name><sys_package display_value="Qgate" source="x_986614_qgate">b6f0fef32f0121108d417f572799b691</sys_package><sys_policy/><sys_scope display_value="Qgate">b6f0fef32f0121108d417f572799b691</sys_scope><sys_update_name>sys_db_object_138176772f0121108d417f572799b60f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-23 09:44:38</sys_updated_on><update_access>false</update_access><user_role display_value="x_986614_qgate.ongoing_on_boardings_user" name="x_986614_qgate.ongoing_on_boardings_user">6a5272b72f0121108d417f572799b690</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1751620164</payload_hash>
+        <record_name>Ongoing on-boardings</record_name>
+        <reverted_from/>
+        <source>76f0fef32f0121108d417f572799b693</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-23 09:44:40</sys_created_on>
+        <sys_id>1752f2b72f0121108d417f572799b652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1867da91cf80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-23 09:44:40</sys_updated_on>
+        <type>Table</type>
+        <update_guid>5b52f2b7e4012110e1202a1bac3d0151</update_guid>
+        <update_guid_history>5b52f2b7e4012110e1202a1bac3d0151:1751620164</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-03-04 20:51:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>609c364e72af48559d8fc7eb26718f79</sys_id>
+        <sys_metadata>138176772f0121108d417f572799b60f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ongoing on-boardings</sys_name>
+        <sys_package display_value="Qgate" source="x_986614_qgate">b6f0fef32f0121108d417f572799b691</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Qgate">b6f0fef32f0121108d417f572799b691</sys_scope>
+        <sys_scope_delete display_value="">1d4448067d5f475a8da9933921c5e7a4</sys_scope_delete>
+        <sys_update_name>sys_db_object_138176772f0121108d417f572799b60f</sys_update_name>
+        <sys_update_version display_value="sys_db_object_138176772f0121108d417f572799b60f">1752f2b72f0121108d417f572799b652</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-03-04 20:51:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
